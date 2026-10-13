@@ -1,0 +1,3896 @@
+{
+ "meta": {
+  "quelle": "fortbildungsportal",
+  "stand": "2026-07-01",
+  "anzahl": 299
+ },
+ "items": [
+  {
+   "id": 1,
+   "mitarbeiter": {
+    "id": "M0362"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 4,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-09"
+  },
+  {
+   "id": 2,
+   "mitarbeiter": {
+    "id": "M0074"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 4,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-08"
+  },
+  {
+   "id": 3,
+   "mitarbeiter": {
+    "id": "M0074"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-09"
+  },
+  {
+   "id": 4,
+   "mitarbeiter": {
+    "id": "M0375"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-03"
+  },
+  {
+   "id": 5,
+   "mitarbeiter": {
+    "id": "M0156"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-15"
+  },
+  {
+   "id": 6,
+   "mitarbeiter": {
+    "id": "M0105"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 5,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-27"
+  },
+  {
+   "id": 7,
+   "mitarbeiter": {
+    "id": "M0105"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 1,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-10"
+  },
+  {
+   "id": 8,
+   "mitarbeiter": {
+    "id": "M0105"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": false,
+   "datum": "2025-06-03"
+  },
+  {
+   "id": 9,
+   "mitarbeiter": {
+    "id": "M0395"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 1,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-17"
+  },
+  {
+   "id": 10,
+   "mitarbeiter": {
+    "id": "M0378"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 4,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-29"
+  },
+  {
+   "id": 11,
+   "mitarbeiter": {
+    "id": "M0378"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-12"
+  },
+  {
+   "id": 12,
+   "mitarbeiter": {
+    "id": "M0125"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-23"
+  },
+  {
+   "id": 13,
+   "mitarbeiter": {
+    "id": "M0125"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 3,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-12"
+  },
+  {
+   "id": 14,
+   "mitarbeiter": {
+    "id": "M0069"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 5,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-25"
+  },
+  {
+   "id": 15,
+   "mitarbeiter": {
+    "id": "M0451"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 3,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-24"
+  },
+  {
+   "id": 16,
+   "mitarbeiter": {
+    "id": "M0010"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-31"
+  },
+  {
+   "id": 17,
+   "mitarbeiter": {
+    "id": "M0010"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-11"
+  },
+  {
+   "id": 18,
+   "mitarbeiter": {
+    "id": "M0195"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 4,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-11"
+  },
+  {
+   "id": 19,
+   "mitarbeiter": {
+    "id": "M0407"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 4,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-09"
+  },
+  {
+   "id": 20,
+   "mitarbeiter": {
+    "id": "M0085"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-11"
+  },
+  {
+   "id": 21,
+   "mitarbeiter": {
+    "id": "M0085"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-25"
+  },
+  {
+   "id": 22,
+   "mitarbeiter": {
+    "id": "M0372"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-07"
+  },
+  {
+   "id": 23,
+   "mitarbeiter": {
+    "id": "M0389"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-20"
+  },
+  {
+   "id": 24,
+   "mitarbeiter": {
+    "id": "M0496"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-17"
+  },
+  {
+   "id": 25,
+   "mitarbeiter": {
+    "id": "M0031"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 5,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-13"
+  },
+  {
+   "id": 26,
+   "mitarbeiter": {
+    "id": "M0317"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": false,
+   "datum": "2025-10-05"
+  },
+  {
+   "id": 27,
+   "mitarbeiter": {
+    "id": "M0409"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-29"
+  },
+  {
+   "id": 28,
+   "mitarbeiter": {
+    "id": "M0491"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-01"
+  },
+  {
+   "id": 29,
+   "mitarbeiter": {
+    "id": "M0492"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-16"
+  },
+  {
+   "id": 30,
+   "mitarbeiter": {
+    "id": "M0281"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-05"
+  },
+  {
+   "id": 31,
+   "mitarbeiter": {
+    "id": "M0357"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-27"
+  },
+  {
+   "id": 32,
+   "mitarbeiter": {
+    "id": "M0077"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-15"
+  },
+  {
+   "id": 33,
+   "mitarbeiter": {
+    "id": "M0077"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-16"
+  },
+  {
+   "id": 34,
+   "mitarbeiter": {
+    "id": "M0462"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-06"
+  },
+  {
+   "id": 35,
+   "mitarbeiter": {
+    "id": "M0462"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-14"
+  },
+  {
+   "id": 36,
+   "mitarbeiter": {
+    "id": "M0462"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": false,
+   "datum": "2025-10-06"
+  },
+  {
+   "id": 37,
+   "mitarbeiter": {
+    "id": "M0498"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 3,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-10"
+  },
+  {
+   "id": 38,
+   "mitarbeiter": {
+    "id": "M0498"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 5,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-24"
+  },
+  {
+   "id": 39,
+   "mitarbeiter": {
+    "id": "M0212"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 1,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-09"
+  },
+  {
+   "id": 40,
+   "mitarbeiter": {
+    "id": "M0212"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-14"
+  },
+  {
+   "id": 41,
+   "mitarbeiter": {
+    "id": "M0102"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-22"
+  },
+  {
+   "id": 42,
+   "mitarbeiter": {
+    "id": "M0102"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-18"
+  },
+  {
+   "id": 43,
+   "mitarbeiter": {
+    "id": "M0102"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-02"
+  },
+  {
+   "id": 44,
+   "mitarbeiter": {
+    "id": "M0335"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-09"
+  },
+  {
+   "id": 45,
+   "mitarbeiter": {
+    "id": "M0335"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-27"
+  },
+  {
+   "id": 46,
+   "mitarbeiter": {
+    "id": "M0476"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 4,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-07"
+  },
+  {
+   "id": 47,
+   "mitarbeiter": {
+    "id": "M0476"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 4,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-30"
+  },
+  {
+   "id": 48,
+   "mitarbeiter": {
+    "id": "M0337"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-17"
+  },
+  {
+   "id": 49,
+   "mitarbeiter": {
+    "id": "M0337"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 1,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": false,
+   "datum": "2025-11-23"
+  },
+  {
+   "id": 50,
+   "mitarbeiter": {
+    "id": "M0441"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-23"
+  },
+  {
+   "id": 51,
+   "mitarbeiter": {
+    "id": "M0174"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 4,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-09"
+  },
+  {
+   "id": 52,
+   "mitarbeiter": {
+    "id": "M0174"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 2,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-19"
+  },
+  {
+   "id": 53,
+   "mitarbeiter": {
+    "id": "M0003"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 5,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-17"
+  },
+  {
+   "id": 54,
+   "mitarbeiter": {
+    "id": "M0334"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 1,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-01"
+  },
+  {
+   "id": 55,
+   "mitarbeiter": {
+    "id": "M0334"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-13"
+  },
+  {
+   "id": 56,
+   "mitarbeiter": {
+    "id": "M0410"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 2,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-22"
+  },
+  {
+   "id": 57,
+   "mitarbeiter": {
+    "id": "M0071"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": false,
+   "datum": "2025-06-26"
+  },
+  {
+   "id": 58,
+   "mitarbeiter": {
+    "id": "M0071"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-16"
+  },
+  {
+   "id": 59,
+   "mitarbeiter": {
+    "id": "M0210"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 5,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": false,
+   "datum": "2026-05-14"
+  },
+  {
+   "id": 60,
+   "mitarbeiter": {
+    "id": "M0064"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 2,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-02"
+  },
+  {
+   "id": 61,
+   "mitarbeiter": {
+    "id": "M0385"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 4,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-18"
+  },
+  {
+   "id": 62,
+   "mitarbeiter": {
+    "id": "M0094"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-12"
+  },
+  {
+   "id": 63,
+   "mitarbeiter": {
+    "id": "M0486"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-06"
+  },
+  {
+   "id": 64,
+   "mitarbeiter": {
+    "id": "M0186"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-04"
+  },
+  {
+   "id": 65,
+   "mitarbeiter": {
+    "id": "M0034"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 4,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-05"
+  },
+  {
+   "id": 66,
+   "mitarbeiter": {
+    "id": "M0034"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-27"
+  },
+  {
+   "id": 67,
+   "mitarbeiter": {
+    "id": "M0078"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 3,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-12"
+  },
+  {
+   "id": 68,
+   "mitarbeiter": {
+    "id": "M0078"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-02"
+  },
+  {
+   "id": 69,
+   "mitarbeiter": {
+    "id": "M0001"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 3,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-25"
+  },
+  {
+   "id": 70,
+   "mitarbeiter": {
+    "id": "M0012"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": false,
+   "datum": "2026-04-04"
+  },
+  {
+   "id": 71,
+   "mitarbeiter": {
+    "id": "M0416"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-30"
+  },
+  {
+   "id": 72,
+   "mitarbeiter": {
+    "id": "M0416"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-21"
+  },
+  {
+   "id": 73,
+   "mitarbeiter": {
+    "id": "M0023"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 5,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-31"
+  },
+  {
+   "id": 74,
+   "mitarbeiter": {
+    "id": "M0073"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 1,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-04"
+  },
+  {
+   "id": 75,
+   "mitarbeiter": {
+    "id": "M0073"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-22"
+  },
+  {
+   "id": 76,
+   "mitarbeiter": {
+    "id": "M0183"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 2,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-08"
+  },
+  {
+   "id": 77,
+   "mitarbeiter": {
+    "id": "M0132"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-30"
+  },
+  {
+   "id": 78,
+   "mitarbeiter": {
+    "id": "M0132"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-07"
+  },
+  {
+   "id": 79,
+   "mitarbeiter": {
+    "id": "M0132"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 3,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-11"
+  },
+  {
+   "id": 80,
+   "mitarbeiter": {
+    "id": "M0411"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-29"
+  },
+  {
+   "id": 81,
+   "mitarbeiter": {
+    "id": "M0194"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 1,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-03"
+  },
+  {
+   "id": 82,
+   "mitarbeiter": {
+    "id": "M0056"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 5,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-09"
+  },
+  {
+   "id": 83,
+   "mitarbeiter": {
+    "id": "M0149"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-04"
+  },
+  {
+   "id": 84,
+   "mitarbeiter": {
+    "id": "M0019"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": false,
+   "datum": "2025-10-06"
+  },
+  {
+   "id": 85,
+   "mitarbeiter": {
+    "id": "M0205"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 3,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-27"
+  },
+  {
+   "id": 86,
+   "mitarbeiter": {
+    "id": "M0079"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-15"
+  },
+  {
+   "id": 87,
+   "mitarbeiter": {
+    "id": "M0079"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 1,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-24"
+  },
+  {
+   "id": 88,
+   "mitarbeiter": {
+    "id": "M0495"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-27"
+  },
+  {
+   "id": 89,
+   "mitarbeiter": {
+    "id": "M0495"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 3,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-19"
+  },
+  {
+   "id": 90,
+   "mitarbeiter": {
+    "id": "M0263"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 5,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-02"
+  },
+  {
+   "id": 91,
+   "mitarbeiter": {
+    "id": "M0324"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-16"
+  },
+  {
+   "id": 92,
+   "mitarbeiter": {
+    "id": "M0324"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-18"
+  },
+  {
+   "id": 93,
+   "mitarbeiter": {
+    "id": "M0484"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-04"
+  },
+  {
+   "id": 94,
+   "mitarbeiter": {
+    "id": "M0484"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 3,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-02"
+  },
+  {
+   "id": 95,
+   "mitarbeiter": {
+    "id": "M0080"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-26"
+  },
+  {
+   "id": 96,
+   "mitarbeiter": {
+    "id": "M0080"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-26"
+  },
+  {
+   "id": 97,
+   "mitarbeiter": {
+    "id": "M0040"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 3,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-08"
+  },
+  {
+   "id": 98,
+   "mitarbeiter": {
+    "id": "M0452"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-31"
+  },
+  {
+   "id": 99,
+   "mitarbeiter": {
+    "id": "M0047"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 2,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": false,
+   "datum": "2026-05-16"
+  },
+  {
+   "id": 100,
+   "mitarbeiter": {
+    "id": "M0239"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 1,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-04"
+  },
+  {
+   "id": 101,
+   "mitarbeiter": {
+    "id": "M0392"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-04"
+  },
+  {
+   "id": 102,
+   "mitarbeiter": {
+    "id": "M0392"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-06"
+  },
+  {
+   "id": 103,
+   "mitarbeiter": {
+    "id": "M0353"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-22"
+  },
+  {
+   "id": 104,
+   "mitarbeiter": {
+    "id": "M0342"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": false,
+   "datum": "2025-09-24"
+  },
+  {
+   "id": 105,
+   "mitarbeiter": {
+    "id": "M0342"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 2,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-27"
+  },
+  {
+   "id": 106,
+   "mitarbeiter": {
+    "id": "M0278"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 2,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-08"
+  },
+  {
+   "id": 107,
+   "mitarbeiter": {
+    "id": "M0291"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 3,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-08"
+  },
+  {
+   "id": 108,
+   "mitarbeiter": {
+    "id": "M0318"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 5,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-14"
+  },
+  {
+   "id": 109,
+   "mitarbeiter": {
+    "id": "M0318"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 4,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-06"
+  },
+  {
+   "id": 110,
+   "mitarbeiter": {
+    "id": "M0318"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 4,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-14"
+  },
+  {
+   "id": 111,
+   "mitarbeiter": {
+    "id": "M0305"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 4,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-03"
+  },
+  {
+   "id": 112,
+   "mitarbeiter": {
+    "id": "M0305"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-01"
+  },
+  {
+   "id": 113,
+   "mitarbeiter": {
+    "id": "M0269"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-18"
+  },
+  {
+   "id": 114,
+   "mitarbeiter": {
+    "id": "M0070"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 1,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-04"
+  },
+  {
+   "id": 115,
+   "mitarbeiter": {
+    "id": "M0456"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": false,
+   "datum": "2025-10-19"
+  },
+  {
+   "id": 116,
+   "mitarbeiter": {
+    "id": "M0456"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 3,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-30"
+  },
+  {
+   "id": 117,
+   "mitarbeiter": {
+    "id": "M0466"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": false,
+   "datum": "2026-04-26"
+  },
+  {
+   "id": 118,
+   "mitarbeiter": {
+    "id": "M0155"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 2,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-16"
+  },
+  {
+   "id": 119,
+   "mitarbeiter": {
+    "id": "M0083"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-07"
+  },
+  {
+   "id": 120,
+   "mitarbeiter": {
+    "id": "M0478"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": false,
+   "datum": "2025-02-03"
+  },
+  {
+   "id": 121,
+   "mitarbeiter": {
+    "id": "M0173"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-06"
+  },
+  {
+   "id": 122,
+   "mitarbeiter": {
+    "id": "M0322"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 5,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-12"
+  },
+  {
+   "id": 123,
+   "mitarbeiter": {
+    "id": "M0322"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 2,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-26"
+  },
+  {
+   "id": 124,
+   "mitarbeiter": {
+    "id": "M0322"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-02"
+  },
+  {
+   "id": 125,
+   "mitarbeiter": {
+    "id": "M0091"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-22"
+  },
+  {
+   "id": 126,
+   "mitarbeiter": {
+    "id": "M0181"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-20"
+  },
+  {
+   "id": 127,
+   "mitarbeiter": {
+    "id": "M0415"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-13"
+  },
+  {
+   "id": 128,
+   "mitarbeiter": {
+    "id": "M0415"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-10"
+  },
+  {
+   "id": 129,
+   "mitarbeiter": {
+    "id": "M0313"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 3,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-07"
+  },
+  {
+   "id": 130,
+   "mitarbeiter": {
+    "id": "M0279"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 2,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-27"
+  },
+  {
+   "id": 131,
+   "mitarbeiter": {
+    "id": "M0382"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-24"
+  },
+  {
+   "id": 132,
+   "mitarbeiter": {
+    "id": "M0382"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-21"
+  },
+  {
+   "id": 133,
+   "mitarbeiter": {
+    "id": "M0473"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": false,
+   "datum": "2026-02-15"
+  },
+  {
+   "id": 134,
+   "mitarbeiter": {
+    "id": "M0363"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 3,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-24"
+  },
+  {
+   "id": 135,
+   "mitarbeiter": {
+    "id": "M0363"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-17"
+  },
+  {
+   "id": 136,
+   "mitarbeiter": {
+    "id": "M0325"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-01"
+  },
+  {
+   "id": 137,
+   "mitarbeiter": {
+    "id": "M0325"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 5,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-16"
+  },
+  {
+   "id": 138,
+   "mitarbeiter": {
+    "id": "M0432"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": false,
+   "datum": "2026-03-27"
+  },
+  {
+   "id": 139,
+   "mitarbeiter": {
+    "id": "M0432"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-18"
+  },
+  {
+   "id": 140,
+   "mitarbeiter": {
+    "id": "M0432"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-12"
+  },
+  {
+   "id": 141,
+   "mitarbeiter": {
+    "id": "M0348"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-22"
+  },
+  {
+   "id": 142,
+   "mitarbeiter": {
+    "id": "M0348"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 1,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-07"
+  },
+  {
+   "id": 143,
+   "mitarbeiter": {
+    "id": "M0348"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-20"
+  },
+  {
+   "id": 144,
+   "mitarbeiter": {
+    "id": "M0087"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-16"
+  },
+  {
+   "id": 145,
+   "mitarbeiter": {
+    "id": "M0076"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-25"
+  },
+  {
+   "id": 146,
+   "mitarbeiter": {
+    "id": "M0076"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-24"
+  },
+  {
+   "id": 147,
+   "mitarbeiter": {
+    "id": "M0439"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-06"
+  },
+  {
+   "id": 148,
+   "mitarbeiter": {
+    "id": "M0439"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-29"
+  },
+  {
+   "id": 149,
+   "mitarbeiter": {
+    "id": "M0016"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-23"
+  },
+  {
+   "id": 150,
+   "mitarbeiter": {
+    "id": "M0250"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 4,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-11"
+  },
+  {
+   "id": 151,
+   "mitarbeiter": {
+    "id": "M0434"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-13"
+  },
+  {
+   "id": 152,
+   "mitarbeiter": {
+    "id": "M0020"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-17"
+  },
+  {
+   "id": 153,
+   "mitarbeiter": {
+    "id": "M0323"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 1,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": false,
+   "datum": "2025-11-27"
+  },
+  {
+   "id": 154,
+   "mitarbeiter": {
+    "id": "M0333"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 2,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-23"
+  },
+  {
+   "id": 155,
+   "mitarbeiter": {
+    "id": "M0057"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-18"
+  },
+  {
+   "id": 156,
+   "mitarbeiter": {
+    "id": "M0302"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-29"
+  },
+  {
+   "id": 157,
+   "mitarbeiter": {
+    "id": "M0302"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": false,
+   "datum": "2025-01-28"
+  },
+  {
+   "id": 158,
+   "mitarbeiter": {
+    "id": "M0230"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-12"
+  },
+  {
+   "id": 159,
+   "mitarbeiter": {
+    "id": "M0332"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-26"
+  },
+  {
+   "id": 160,
+   "mitarbeiter": {
+    "id": "M0332"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 4,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-27"
+  },
+  {
+   "id": 161,
+   "mitarbeiter": {
+    "id": "M0133"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 5,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-23"
+  },
+  {
+   "id": 162,
+   "mitarbeiter": {
+    "id": "M0133"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 2,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-24"
+  },
+  {
+   "id": 163,
+   "mitarbeiter": {
+    "id": "M0133"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": false,
+   "datum": "2025-03-23"
+  },
+  {
+   "id": 164,
+   "mitarbeiter": {
+    "id": "M0138"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 5,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-25"
+  },
+  {
+   "id": 165,
+   "mitarbeiter": {
+    "id": "M0138"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-25"
+  },
+  {
+   "id": 166,
+   "mitarbeiter": {
+    "id": "M0424"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-24"
+  },
+  {
+   "id": 167,
+   "mitarbeiter": {
+    "id": "M0424"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 4,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-24"
+  },
+  {
+   "id": 168,
+   "mitarbeiter": {
+    "id": "M0424"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 2,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-29"
+  },
+  {
+   "id": 169,
+   "mitarbeiter": {
+    "id": "M0336"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-18"
+  },
+  {
+   "id": 170,
+   "mitarbeiter": {
+    "id": "M0336"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 4,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-21"
+  },
+  {
+   "id": 171,
+   "mitarbeiter": {
+    "id": "M0026"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 5,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-05"
+  },
+  {
+   "id": 172,
+   "mitarbeiter": {
+    "id": "M0465"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-28"
+  },
+  {
+   "id": 173,
+   "mitarbeiter": {
+    "id": "M0465"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 2,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-30"
+  },
+  {
+   "id": 174,
+   "mitarbeiter": {
+    "id": "M0465"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-09"
+  },
+  {
+   "id": 175,
+   "mitarbeiter": {
+    "id": "M0282"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-31"
+  },
+  {
+   "id": 176,
+   "mitarbeiter": {
+    "id": "M0248"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-08"
+  },
+  {
+   "id": 177,
+   "mitarbeiter": {
+    "id": "M0238"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-03"
+  },
+  {
+   "id": 178,
+   "mitarbeiter": {
+    "id": "M0118"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": false,
+   "datum": "2025-01-22"
+  },
+  {
+   "id": 179,
+   "mitarbeiter": {
+    "id": "M0118"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-15"
+  },
+  {
+   "id": 180,
+   "mitarbeiter": {
+    "id": "M0043"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": false,
+   "datum": "2025-01-09"
+  },
+  {
+   "id": 181,
+   "mitarbeiter": {
+    "id": "M0221"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 5,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": false,
+   "datum": "2026-03-23"
+  },
+  {
+   "id": 182,
+   "mitarbeiter": {
+    "id": "M0221"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-17"
+  },
+  {
+   "id": 183,
+   "mitarbeiter": {
+    "id": "M0177"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 3,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-05"
+  },
+  {
+   "id": 184,
+   "mitarbeiter": {
+    "id": "M0177"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-26"
+  },
+  {
+   "id": 185,
+   "mitarbeiter": {
+    "id": "M0321"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-20"
+  },
+  {
+   "id": 186,
+   "mitarbeiter": {
+    "id": "M0154"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 5,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-01"
+  },
+  {
+   "id": 187,
+   "mitarbeiter": {
+    "id": "M0154"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-23"
+  },
+  {
+   "id": 188,
+   "mitarbeiter": {
+    "id": "M0232"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 3,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-13"
+  },
+  {
+   "id": 189,
+   "mitarbeiter": {
+    "id": "M0228"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-12"
+  },
+  {
+   "id": 190,
+   "mitarbeiter": {
+    "id": "M0228"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-09"
+  },
+  {
+   "id": 191,
+   "mitarbeiter": {
+    "id": "M0228"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-04"
+  },
+  {
+   "id": 192,
+   "mitarbeiter": {
+    "id": "M0418"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 5,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-11"
+  },
+  {
+   "id": 193,
+   "mitarbeiter": {
+    "id": "M0204"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-13"
+  },
+  {
+   "id": 194,
+   "mitarbeiter": {
+    "id": "M0127"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 2,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-09"
+  },
+  {
+   "id": 195,
+   "mitarbeiter": {
+    "id": "M0127"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-09-06"
+  },
+  {
+   "id": 196,
+   "mitarbeiter": {
+    "id": "M0127"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-20"
+  },
+  {
+   "id": 197,
+   "mitarbeiter": {
+    "id": "M0330"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": false,
+   "datum": "2026-04-28"
+  },
+  {
+   "id": 198,
+   "mitarbeiter": {
+    "id": "M0032"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-16"
+  },
+  {
+   "id": 199,
+   "mitarbeiter": {
+    "id": "M0032"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-30"
+  },
+  {
+   "id": 200,
+   "mitarbeiter": {
+    "id": "M0114"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 5,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": false,
+   "datum": "2025-05-21"
+  },
+  {
+   "id": 201,
+   "mitarbeiter": {
+    "id": "M0471"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 1,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-23"
+  },
+  {
+   "id": 202,
+   "mitarbeiter": {
+    "id": "M0272"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": false,
+   "datum": "2025-12-10"
+  },
+  {
+   "id": 203,
+   "mitarbeiter": {
+    "id": "M0141"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-10"
+  },
+  {
+   "id": 204,
+   "mitarbeiter": {
+    "id": "M0058"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-23"
+  },
+  {
+   "id": 205,
+   "mitarbeiter": {
+    "id": "M0193"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 1,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-19"
+  },
+  {
+   "id": 206,
+   "mitarbeiter": {
+    "id": "M0025"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-09"
+  },
+  {
+   "id": 207,
+   "mitarbeiter": {
+    "id": "M0018"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-04"
+  },
+  {
+   "id": 208,
+   "mitarbeiter": {
+    "id": "M0266"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-23"
+  },
+  {
+   "id": 209,
+   "mitarbeiter": {
+    "id": "M0266"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 5,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-10"
+  },
+  {
+   "id": 210,
+   "mitarbeiter": {
+    "id": "M0266"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 3,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-12"
+  },
+  {
+   "id": 211,
+   "mitarbeiter": {
+    "id": "M0067"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-29"
+  },
+  {
+   "id": 212,
+   "mitarbeiter": {
+    "id": "M0067"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-09"
+  },
+  {
+   "id": 213,
+   "mitarbeiter": {
+    "id": "M0209"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 3,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-30"
+  },
+  {
+   "id": 214,
+   "mitarbeiter": {
+    "id": "M0480"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-03"
+  },
+  {
+   "id": 215,
+   "mitarbeiter": {
+    "id": "M0480"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-09"
+  },
+  {
+   "id": 216,
+   "mitarbeiter": {
+    "id": "M0480"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": false,
+   "datum": "2025-12-29"
+  },
+  {
+   "id": 217,
+   "mitarbeiter": {
+    "id": "M0095"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-02"
+  },
+  {
+   "id": 218,
+   "mitarbeiter": {
+    "id": "M0254"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 2,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-01"
+  },
+  {
+   "id": 219,
+   "mitarbeiter": {
+    "id": "M0254"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 5,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-19"
+  },
+  {
+   "id": 220,
+   "mitarbeiter": {
+    "id": "M0254"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-20"
+  },
+  {
+   "id": 221,
+   "mitarbeiter": {
+    "id": "M0267"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": false,
+   "datum": "2025-10-03"
+  },
+  {
+   "id": 222,
+   "mitarbeiter": {
+    "id": "M0024"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-20"
+  },
+  {
+   "id": 223,
+   "mitarbeiter": {
+    "id": "M0223"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-18"
+  },
+  {
+   "id": 224,
+   "mitarbeiter": {
+    "id": "M0223"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 2,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-28"
+  },
+  {
+   "id": 225,
+   "mitarbeiter": {
+    "id": "M0262"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-06-14"
+  },
+  {
+   "id": 226,
+   "mitarbeiter": {
+    "id": "M0262"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-24"
+  },
+  {
+   "id": 227,
+   "mitarbeiter": {
+    "id": "M0262"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 1500
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-11"
+  },
+  {
+   "id": 228,
+   "mitarbeiter": {
+    "id": "M0427"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-17"
+  },
+  {
+   "id": 229,
+   "mitarbeiter": {
+    "id": "M0427"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 3,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-20"
+  },
+  {
+   "id": 230,
+   "mitarbeiter": {
+    "id": "M0006"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 5,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-28"
+  },
+  {
+   "id": 231,
+   "mitarbeiter": {
+    "id": "M0006"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-24"
+  },
+  {
+   "id": 232,
+   "mitarbeiter": {
+    "id": "M0117"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 1,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-24"
+  },
+  {
+   "id": 233,
+   "mitarbeiter": {
+    "id": "M0117"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-10"
+  },
+  {
+   "id": 234,
+   "mitarbeiter": {
+    "id": "M0046"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 5,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-29"
+  },
+  {
+   "id": 235,
+   "mitarbeiter": {
+    "id": "M0017"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 2,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-18"
+  },
+  {
+   "id": 236,
+   "mitarbeiter": {
+    "id": "M0463"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 4,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-06"
+  },
+  {
+   "id": 237,
+   "mitarbeiter": {
+    "id": "M0358"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 2,
+    "kosten_eur": 800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-08-21"
+  },
+  {
+   "id": 238,
+   "mitarbeiter": {
+    "id": "M0004"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 1,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-08"
+  },
+  {
+   "id": 239,
+   "mitarbeiter": {
+    "id": "M0219"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-31"
+  },
+  {
+   "id": 240,
+   "mitarbeiter": {
+    "id": "M0406"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 4,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-05"
+  },
+  {
+   "id": 241,
+   "mitarbeiter": {
+    "id": "M0061"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-15"
+  },
+  {
+   "id": 242,
+   "mitarbeiter": {
+    "id": "M0061"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": false,
+   "datum": "2025-04-14"
+  },
+  {
+   "id": 243,
+   "mitarbeiter": {
+    "id": "M0111"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 3,
+    "kosten_eur": 700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-19"
+  },
+  {
+   "id": 244,
+   "mitarbeiter": {
+    "id": "M0319"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 5,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-13"
+  },
+  {
+   "id": 245,
+   "mitarbeiter": {
+    "id": "M0429"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 3,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-01-14"
+  },
+  {
+   "id": 246,
+   "mitarbeiter": {
+    "id": "M0429"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 1,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-29"
+  },
+  {
+   "id": 247,
+   "mitarbeiter": {
+    "id": "M0030"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-26"
+  },
+  {
+   "id": 248,
+   "mitarbeiter": {
+    "id": "M0438"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-20"
+  },
+  {
+   "id": 249,
+   "mitarbeiter": {
+    "id": "M0438"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-09"
+  },
+  {
+   "id": 250,
+   "mitarbeiter": {
+    "id": "M0472"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 4,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": false,
+   "datum": "2025-07-24"
+  },
+  {
+   "id": 251,
+   "mitarbeiter": {
+    "id": "M0027"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-17"
+  },
+  {
+   "id": 252,
+   "mitarbeiter": {
+    "id": "M0008"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-21"
+  },
+  {
+   "id": 253,
+   "mitarbeiter": {
+    "id": "M0454"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 3,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-03-04"
+  },
+  {
+   "id": 254,
+   "mitarbeiter": {
+    "id": "M0454"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-14"
+  },
+  {
+   "id": 255,
+   "mitarbeiter": {
+    "id": "M0109"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 5,
+    "kosten_eur": 1700
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-12"
+  },
+  {
+   "id": 256,
+   "mitarbeiter": {
+    "id": "M0038"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 1,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-09"
+  },
+  {
+   "id": 257,
+   "mitarbeiter": {
+    "id": "M0038"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": false,
+   "datum": "2025-08-17"
+  },
+  {
+   "id": 258,
+   "mitarbeiter": {
+    "id": "M0158"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-04"
+  },
+  {
+   "id": 259,
+   "mitarbeiter": {
+    "id": "M0158"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 3,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-20"
+  },
+  {
+   "id": 260,
+   "mitarbeiter": {
+    "id": "M0490"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 1,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": false,
+   "datum": "2026-03-28"
+  },
+  {
+   "id": 261,
+   "mitarbeiter": {
+    "id": "M0119"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 1,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-22"
+  },
+  {
+   "id": 262,
+   "mitarbeiter": {
+    "id": "M0115"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": false,
+   "datum": "2026-03-14"
+  },
+  {
+   "id": 263,
+   "mitarbeiter": {
+    "id": "M0176"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-10"
+  },
+  {
+   "id": 264,
+   "mitarbeiter": {
+    "id": "M0176"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 2,
+    "kosten_eur": 1600
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-29"
+  },
+  {
+   "id": 265,
+   "mitarbeiter": {
+    "id": "M0374"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-04"
+  },
+  {
+   "id": 266,
+   "mitarbeiter": {
+    "id": "M0374"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 4,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-14"
+  },
+  {
+   "id": 267,
+   "mitarbeiter": {
+    "id": "M0182"
+   },
+   "kurs": {
+    "titel": "Scrum",
+    "dauer_tage": 4,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": false,
+   "datum": "2026-03-07"
+  },
+  {
+   "id": 268,
+   "mitarbeiter": {
+    "id": "M0182"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-11"
+  },
+  {
+   "id": 269,
+   "mitarbeiter": {
+    "id": "M0145"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 5,
+    "kosten_eur": 400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-06-12"
+  },
+  {
+   "id": 270,
+   "mitarbeiter": {
+    "id": "M0145"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 2,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-20"
+  },
+  {
+   "id": 271,
+   "mitarbeiter": {
+    "id": "M0145"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 1,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-01"
+  },
+  {
+   "id": 272,
+   "mitarbeiter": {
+    "id": "M0370"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-02-03"
+  },
+  {
+   "id": 273,
+   "mitarbeiter": {
+    "id": "M0391"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2026-05-24"
+  },
+  {
+   "id": 274,
+   "mitarbeiter": {
+    "id": "M0391"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 3,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-18"
+  },
+  {
+   "id": 275,
+   "mitarbeiter": {
+    "id": "M0391"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 2,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-12"
+  },
+  {
+   "id": 276,
+   "mitarbeiter": {
+    "id": "M0196"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-17"
+  },
+  {
+   "id": 277,
+   "mitarbeiter": {
+    "id": "M0196"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 1,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-23"
+  },
+  {
+   "id": 278,
+   "mitarbeiter": {
+    "id": "M0405"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 1,
+    "kosten_eur": 1100
+   },
+   "abgeschlossen": false,
+   "datum": "2026-06-27"
+  },
+  {
+   "id": 279,
+   "mitarbeiter": {
+    "id": "M0405"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 3,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-18"
+  },
+  {
+   "id": 280,
+   "mitarbeiter": {
+    "id": "M0276"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 5,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-21"
+  },
+  {
+   "id": 281,
+   "mitarbeiter": {
+    "id": "M0276"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 3,
+    "kosten_eur": 1900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-24"
+  },
+  {
+   "id": 282,
+   "mitarbeiter": {
+    "id": "M0455"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 1,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-26"
+  },
+  {
+   "id": 283,
+   "mitarbeiter": {
+    "id": "M0142"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-28"
+  },
+  {
+   "id": 284,
+   "mitarbeiter": {
+    "id": "M0366"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 4,
+    "kosten_eur": 1800
+   },
+   "abgeschlossen": true,
+   "datum": "2026-02-20"
+  },
+  {
+   "id": 285,
+   "mitarbeiter": {
+    "id": "M0068"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2026-01-21"
+  },
+  {
+   "id": 286,
+   "mitarbeiter": {
+    "id": "M0211"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 4,
+    "kosten_eur": 2000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-10"
+  },
+  {
+   "id": 287,
+   "mitarbeiter": {
+    "id": "M0169"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 4,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-15"
+  },
+  {
+   "id": 288,
+   "mitarbeiter": {
+    "id": "M0169"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 2,
+    "kosten_eur": 1200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-25"
+  },
+  {
+   "id": 289,
+   "mitarbeiter": {
+    "id": "M0494"
+   },
+   "kurs": {
+    "titel": "Python Aufbau",
+    "dauer_tage": 4,
+    "kosten_eur": 900
+   },
+   "abgeschlossen": true,
+   "datum": "2026-04-07"
+  },
+  {
+   "id": 290,
+   "mitarbeiter": {
+    "id": "M0376"
+   },
+   "kurs": {
+    "titel": "Azure",
+    "dauer_tage": 2,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-04-01"
+  },
+  {
+   "id": 291,
+   "mitarbeiter": {
+    "id": "M0401"
+   },
+   "kurs": {
+    "titel": "Führung",
+    "dauer_tage": 3,
+    "kosten_eur": 1400
+   },
+   "abgeschlossen": true,
+   "datum": "2026-03-09"
+  },
+  {
+   "id": 292,
+   "mitarbeiter": {
+    "id": "M0273"
+   },
+   "kurs": {
+    "titel": "Java",
+    "dauer_tage": 2,
+    "kosten_eur": 1000
+   },
+   "abgeschlossen": true,
+   "datum": "2025-12-24"
+  },
+  {
+   "id": 293,
+   "mitarbeiter": {
+    "id": "M0110"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 5,
+    "kosten_eur": 2200
+   },
+   "abgeschlossen": true,
+   "datum": "2025-10-09"
+  },
+  {
+   "id": 294,
+   "mitarbeiter": {
+    "id": "M0249"
+   },
+   "kurs": {
+    "titel": "Datenschutz",
+    "dauer_tage": 2,
+    "kosten_eur": 2300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-07-04"
+  },
+  {
+   "id": 295,
+   "mitarbeiter": {
+    "id": "M0146"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 3,
+    "kosten_eur": 500
+   },
+   "abgeschlossen": false,
+   "datum": "2026-05-01"
+  },
+  {
+   "id": 296,
+   "mitarbeiter": {
+    "id": "M0093"
+   },
+   "kurs": {
+    "titel": "Arbeitssicherheit",
+    "dauer_tage": 1,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": false,
+   "datum": "2026-03-06"
+  },
+  {
+   "id": 297,
+   "mitarbeiter": {
+    "id": "M0153"
+   },
+   "kurs": {
+    "titel": "ISO 9001",
+    "dauer_tage": 1,
+    "kosten_eur": 2400
+   },
+   "abgeschlossen": true,
+   "datum": "2025-05-21"
+  },
+  {
+   "id": 298,
+   "mitarbeiter": {
+    "id": "M0153"
+   },
+   "kurs": {
+    "titel": "Coaching",
+    "dauer_tage": 5,
+    "kosten_eur": 2100
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-15"
+  },
+  {
+   "id": 299,
+   "mitarbeiter": {
+    "id": "M0368"
+   },
+   "kurs": {
+    "titel": "Englisch",
+    "dauer_tage": 2,
+    "kosten_eur": 1300
+   },
+   "abgeschlossen": true,
+   "datum": "2025-11-26"
+  }
+ ]
+}
